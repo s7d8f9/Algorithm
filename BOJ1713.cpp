@@ -1,4 +1,7 @@
 /*
+분류 : 브루트포스
+실수 : Vector auto 이용시 a:v에서 a.?++해도 벡터 값에는 영향이 없다. 즉, a는 그냥 깊은복사를 해오나 보다..
+참조 : 그냥 하라는 대루 하면 문제안됨....
 */
 #include <iostream>
 #include <algorithm>
