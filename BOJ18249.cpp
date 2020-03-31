@@ -1,3 +1,8 @@
+/*
+분류 : 다이나믹프로그래밍(DP)
+실수 : 음 오랜만에 디피푸니까 짱구가 안돌아간다...
+참조 : 
+*/
 #include <iostream>
 #include <string>
 #include <algorithm>
